@@ -292,6 +292,6 @@
   {"name" : "Xenoblade Chronicles Definitive Edition", "img" : "xcd"},
   {"name" : "Xenoblade Chronicles 2", "img" : "xc2"},
   {"name" : "Xenoblade Chronicles 3", "img" : "xc3"},
-  {"name" : "Xenoblade Chronicles X: Definitive Edition", "img" : "xcx"},
+  {"name" : "Xenoblade Chronicles X: Definitive Edition", "img" : "https://assets.nintendo.com/image/upload/ar_1:1,c_fill,g_west,f_auto/q_auto/store/software/switch/70010000088832/d33ed7f51de601b10cafa5814fd786bbad317b0421a43d54917a2c647be2f23b"},
   {"name" : "Yoshi's Crafted World", "img" : "yoshicraft"}
 ]
